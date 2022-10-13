@@ -1,7 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = 'The Techno Hack'
-theme = "terminal"
 paginate = 5
 
 [params]
